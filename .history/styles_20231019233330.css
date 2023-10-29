@@ -1,0 +1,8 @@
+.product-card {
+    border-radius: 0.5rem;
+    max-width: 18rem;
+}
+
+.product-image {
+    max-width: 100%;
+}

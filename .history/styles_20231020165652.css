@@ -1,0 +1,73 @@
+:root {
+    --coffee-color-1: #ede0d4;
+    --coffee-color-2: #e6ccb2;
+    --coffee-color-3: #ddb892;
+    --coffee-color-4: #b08968;
+    --coffee-color-5: #7f5539;
+    --coffee-color-6: #9c6644;
+    --color-light: var(var(--coffee-color-1));
+    --color-dark: #2d100e;
+}
+
+html {
+    font-size: 16px;
+}
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: gray;
+    font-family: "Nunito Sans", sans-serif;
+}
+
+@media screen and (max-width: 560px) {
+    html {
+        font-size: 12px;
+    }
+}
+
+#header {
+    padding: 2rem 1 rem;
+    background-color: var(--coffee-color-4);
+    display: flex;
+    justify-content: space-between;
+}
+
+#header .navigation {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+#header .navigation .link {
+    font-size: 1.125rem;
+    text-decoration: none;
+    color: white;
+}
+
+#header .navigation .link:hover {
+    color: var(--color-dark);
+}
+
+#product-list {
+    display: flex;
+    gap: 1.5rem;
+    padding: 2rem;
+    flex-wrap: wrap;
+}
+
+.product-card {
+    border-radius: 0.5rem;
+    max-width: 18rem;
+    background-color: gray;
+    padding: 2rem 1rem;
+}
+
+.product-image {
+    max-width: 100%;
+}
