@@ -261,3 +261,7 @@ body {
     background-color: var(--coffee-color-3);
     color: var(--color-dark);
 }
+
+#product-list {
+    padding-left: 3rem;
+}

@@ -243,6 +243,7 @@ body {
     line-height: 3.2rem;
     padding-right: 2rem;
     letter-spacing: 0.2rem;
+    text-align: center;
 }
 
 #hero .overlay .description-wrapper .cta-button {
@@ -260,4 +261,8 @@ body {
 #hero .overlay .description-wrapper .cta-button:hover {
     background-color: var(--coffee-color-3);
     color: var(--color-dark);
+}
+
+#product-list {
+    margin-left: 6rem;
 }

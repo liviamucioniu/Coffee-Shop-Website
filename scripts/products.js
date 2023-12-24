@@ -6,14 +6,14 @@ const wish = [];
 const products = [
     {
         id: 1,
-        name: "CofeeBean - Coffe 1 0.25l",
+        name: "Cafe D’Bolla - Coffe 1 0.25l",
         description:
             "Lorem ipsum dolor etur, adipisicing elquasquas molestiae aliquid quia, dolorem necessitatibus!",
         image: "./assets/images/coffee-1.png",
     },
     {
         id: 2,
-        name: "CofeeBean - Coffe 2 0.25l",
+        name: "Cafe D’Bolla - Coffe 2 0.25l",
         description:
             "Lorem ipsum dolor etur, adipisicing elquasquas molestiae aliquid quia, dolorem necessitatibus!",
         image: "./assets/images/coffee-2.png",
@@ -21,7 +21,7 @@ const products = [
 
     {
         id: 3,
-        name: "CofeeBean - Coffe 3 0.25l",
+        name: "Cafe D’Bolla - Coffe 3 0.25l",
         description:
             "Lorem ipsum dolor etur, adipisicing elquasquas molestiae aliquid quia, dolorem necessitatibus!",
         image: "./assets/images/coffee-3.png",
@@ -29,7 +29,7 @@ const products = [
 
     {
         id: 4,
-        name: "CofeeBean - Coffe 4 0.25l",
+        name: "Cafe D’Bolla - Coffe 4 0.25l",
         description:
             "Lorem ipsum dolor etur, adipisicing elquasquas molestiae aliquid quia, dolorem necessitatibus!",
         image: "./assets/images/coffee-4.png",
@@ -37,7 +37,7 @@ const products = [
 
     {
         id: 5,
-        name: "CofeeBean - Coffe 5 0.25l",
+        name: "Cafe D’Bolla - Coffe 5 0.25l",
         description:
             "Lorem ipsum dolor etur, adipisicing elquasquas molestiae aliquid quia, dolorem necessitatibus!",
         image: "./assets/images/coffee-5.png",
@@ -45,7 +45,7 @@ const products = [
 
     {
         id: 6,
-        name: "CofeeBean - Coffe 6 0.25l",
+        name: "Cafe D’Bolla - Coffe 6 0.25l",
         description:
             "Lorem ipsum dolor etur, adipisicing elquasquas molestiae aliquid quia, dolorem necessitatibus!",
         image: "./assets/images/coffee-6.png",
@@ -53,7 +53,7 @@ const products = [
 
     {
         id: 7,
-        name: "CofeeBean - Coffe Pack 1 0.5kg",
+        name: "Cafe D’Bolla - Coffe Pack 1 0.5kg",
         description:
             "Lorem ipsum dolor etur, adipisicing elquasquas molestiae aliquid quia, dolorem necessitatibus!",
         image: "./assets/images/coffee-pack-1.png",
@@ -61,7 +61,7 @@ const products = [
 
     {
         id: 8,
-        name: "CofeeBean - Coffe Pack 2 0.5kg",
+        name: "Cafe D’Bolla - Coffe Pack 2 0.5kg",
         description:
             "Lorem ipsum dolor etur, adipisicing elquasquas molestiae aliquid quia, dolorem necessitatibus!",
         image: "./assets/images/coffee-pack-2.png",
@@ -69,7 +69,7 @@ const products = [
 
     {
         id: 9,
-        name: "CofeeBean - Coffe Pack 3 0.5kg",
+        name: "Cafe D’Bolla - Coffe Pack 3 0.5kg",
         description:
             "Lorem ipsum dolor etur, adipisicing elquasquas molestiae aliquid quia, dolorem necessitatibus!",
         image: "./assets/images/coffee-pack-3.png",
