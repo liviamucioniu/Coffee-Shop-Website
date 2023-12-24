@@ -1,4 +1,4 @@
-Welcome to Cafe D' Bolla
+Welcome to Cafe D' Bolla.
 Our coffee beans are top-notch, carefully picked from amazing places, and each cup is a little adventure of flavors.
 
 
